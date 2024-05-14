@@ -1,0 +1,33 @@
+
+body{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:large;
+    color: black;
+    text-align: center;
+    gap: 0,5em;
+}
+
+section{
+    background-color: beige;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgb(46, 39, 39);
+}
+
+.bomDia{
+    font-family: cursive;
+    font-size: larger;
+}
+
+.figura{
+    width: 18em;
+    height: 18em;
+    border-radius: 20px;
+}
+
+footer{
+    font-style: italic;
+}
